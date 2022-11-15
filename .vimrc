@@ -163,6 +163,7 @@ augroup END
 
 " SnipMate settings
 let g:snippets_dir = "~/.vim/vim-snippets/snippets"
+let g:snipMate = { 'snippet_version' : 1 }
 
 " NERDTree
 nmap <F1> <nop>                 " unmap <F1> with help
